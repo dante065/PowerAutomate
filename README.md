@@ -1,4 +1,4 @@
-# PowerAutomate
+# E-Leave System Powered by Power Automate
 
 ![1](https://user-images.githubusercontent.com/11573010/195487001-5a6388e2-ef2e-4309-b150-46e48e5e5aa8.png)
 ![2](https://user-images.githubusercontent.com/11573010/195487021-595489c7-ddcf-4a5b-932c-0c833c75cae8.png)
